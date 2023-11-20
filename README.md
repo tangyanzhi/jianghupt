@@ -1,6 +1,9 @@
 # 分享.NET 顶级技术文章:
+以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术。希望你玩得愉快。
 
-### 分层编译系列
+
+
+### .NET8 分层编译系列
 [.NET8 JIT核心:分层编译的原理](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485453&idx=1&sn=f7c1a6198b9e24af64a6a88b80230a76&chksm=c01c4596f76bcc80ff69ce39bc691f508a118f679d64c070e12538151dde161c4f80da935724&token=2073290139&lang=zh_CN#rd)
 
 [.Net8的快速JIT，分层编译，R2R的设置](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484697&idx=1&sn=d4d80af9f3f9d64d959c6c403a6b5f44&chksm=c01c4882f76bc1945679229711e6a4fe52350712be7e79c40ddf0ea1fa513666ca63869820c9&token=2073290139&lang=zh_CN#rd)
@@ -37,4 +40,30 @@
 [Exe和托管DLL区别是什么?](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485106&idx=1&sn=b47e2d08b4ca5f2f87167f43f962bfcd&chksm=c01c4b29f76bc23f9705d9363800b4f229a85bf2f2cea72ec63f74277a0aa9f60c29db546b6f&token=2073290139&lang=zh_CN#rd)
 
 
+### .NET JIT系列
+[.Net虚拟机(CLR/JIT)加密原理(版权保护)](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485395&idx=1&sn=b640a5e447083dc7312effe3dc28dfe9&chksm=c01c4a48f76bc35ecec1f6aa4559d8fcf8686cec2e4d489afe35f1f021cd9a8c8e436fcd5afa&token=2073290139&lang=zh_CN#rd)
+[.Net JIT骚操逆向最新版Dngurad HVM](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485387&idx=1&sn=5ea612e6590c5d19dcd95d4ec34f007c&chksm=c01c4a50f76bc3466f7b6cad8faf26473e70ef4f3ecea8b55f0a0138b8c2100eaedc956e3acb&token=2073290139&lang=zh_CN#rd)
+[.Net JIT支持的Risc-V/La/Arm](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485299&idx=1&sn=f099753e12d8199f4d91dedcb8cbb5e3&chksm=c01c4ae8f76bc3fe1e3300d7c1214026d42c8df376a2aaa08ecdc5b242bca6037e24a9e3a3d8&token=2073290139&lang=zh_CN#rd)
+[顶级技术:CLR/JIT操纵字符串的内存地址](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485147&idx=1&sn=689e5ec97e6c6ae1897399b2c9b9fd32&chksm=c01c4b40f76bc256ede4b7bc286412b19461f74cab051271506d489b0a9a18319b11b8a4b464&token=2073290139&lang=zh_CN#rd)
+[.Net8的CLR/JIT未来的方向](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485082&idx=1&sn=80adce465163face17996bcce3a4197a&chksm=c01c4b01f76bc217bdccfa201f88aed1005f2f119e9cb719176a7e06861df15f3b4068b54bee&token=2073290139&lang=zh_CN#rd)
+[.Net JIT二进制骚操DHVM破解篇](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485043&idx=1&sn=748720e33d1c0b92bb58a3bb717b9c7c&chksm=c01c4be8f76bc2feb272ff19d79bd09438efa2c87f9de618117540d2bff461b37496536e47df&token=2073290139&lang=zh_CN#rd)
+[.Net JIT的骚操作DNGuard HVM原理简析](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485008&idx=1&sn=1689fd499cf23e80f7d2c343175b2c7a&chksm=c01c4bcbf76bc2ddcb6a509e38172e764d614a7d3e38127872bf49e4a05f00dd1fcbafb10602&token=2073290139&lang=zh_CN#rd)
+[.Net8顶级技术:JIT操纵IL分割成BasicBlock](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484850&idx=1&sn=1d820fbbc617a5387d3127ba4cc409c0&chksm=c01c4829f76bc13f356daaedf4bcaa0a8dd6672ca6d3473b6fc0c9706613e0e4f3feeae6c1f5&token=2073290139&lang=zh_CN#rd)
+[.Net8的JIT是如何计算函数内存空间大小的？](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484724&idx=1&sn=da944b81252cc6b2ba2b472798709668&chksm=c01c48aff76bc1b9d9534a1c803c010e7c11c0dcd707f4c948007e3dcae7faacc7be159add58&token=2073290139&lang=zh_CN#rd)
+[.Net8的快速JIT，分层编译，R2R的设置](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484697&idx=1&sn=d4d80af9f3f9d64d959c6c403a6b5f44&chksm=c01c4882f76bc1945679229711e6a4fe52350712be7e79c40ddf0ea1fa513666ca63869820c9&token=2073290139&lang=zh_CN#rd)
 
+## .NET CLR系列
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()
+[]()

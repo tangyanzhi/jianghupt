@@ -10,7 +10,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 
 公众号为文章首发地，有两百多篇同级别文章分析。欢迎关注。
-![image][Roslyn_CLR_JIT/1672390091899.png]
+![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/1672390091899.png?raw=true)
 
 
 以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术。希望你玩得愉快。

@@ -3,7 +3,11 @@
 分享.NET方面，包括AOT，CLR，JIT，ILC等等，国内罕见，同行无法企及的顶级技术。
 作为延伸和延展方面的技术，Windows/Linux双内核顶尖技术。
 Arm64/Risc-v64/X64等指令超级技术。同行穷毕生精力无法学会其中一项的顶阶层次文章分析。
-探索技术层次的最高境界，随心所欲，随意而为。不局限于任何约束性的行为，突破樊笼和一切行为制约。
+
+
+Explore the highest level of technology, do whatever you want, and do whatever you want. 
+Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
+
 
 
 以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术。希望你玩得愉快。

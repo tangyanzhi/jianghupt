@@ -63,17 +63,42 @@
 
 
 ## .NET CLR系列
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[.NET CLR线程局部存储](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485544&idx=1&sn=bcd03ac571849a2f7f628b99bc4fce43&chksm=c01c45f3f76bcce5413f07e8ad3bf933e6079d5b7cdfd751e0dbc4d332106abe00c703164f99&token=2073290139&lang=zh_CN#rd)
+
+[从0教你学习.Net核心CLR/JIT技术](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485402&idx=1&sn=125288c2a4c99fd01b3aef58bfc55224&chksm=c01c4a41f76bc357c1c1920294113865b7c406ed00de199cbee04d3cb59b4f901f152a6fe26c&token=2073290139&lang=zh_CN#rd)
+
+[CLR跨代(card_table)的一些细节](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485379&idx=1&sn=da9b41bfcc7a423f9bac0c9cb9b6aeb9&chksm=c01c4a58f76bc34ea7b1d0694fc0d338a3b42644362af4b8dd06938d5fe33c18f22e3585748f&token=2073290139&lang=zh_CN#rd)
+
+[.Net8 CLR跨代(card_table)续](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485375&idx=1&sn=ca4e2fc5b0a0edc762fb0409c3d710c4&chksm=c01c4a24f76bc332f2abe8e8570c51b73eda0b7f0d3eb4381a4ff8a4678a92bc1d2831f7f79a&token=2073290139&lang=zh_CN#rd)
+
+[lldb watch card_table(CLR)的运作模式](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485370&idx=1&sn=59480b2c999836322267c997623f42ee&chksm=c01c4a21f76bc33709b9010f7597b2a94fd91afcf610201074267cd26ef0c36ecfc9543f2fae&token=2073290139&lang=zh_CN#rd)
+
+[CLR跨代标记内存模型](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485366&idx=1&sn=682cbea6d5839255f3cc46b94b4a3300&chksm=c01c4a2df76bc33b8a2ac18caa9b1098e58b6efc285749c49dbb66d92ec766cc8b236f8f5592&token=2073290139&lang=zh_CN#rd)
+
+[CLR card_table位移和数组](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485362&idx=1&sn=963a15b05d9bbc297ff38f77303dd8a7&chksm=c01c4a29f76bc33f8ef340c271a5e55bf004d3ccd52301bd4caaab2705b4632477a75c695818&token=2073290139&lang=zh_CN#rd)
+
+[.Net CLR里的根对象是如何被释放的](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485354&idx=2&sn=41f7c083bd5df936e53939b8cce608ff&chksm=c01c4a31f76bc327dc915f73d5fc207b12ad582dd2b0f39deef0fcdff852414ff15173c5cab5&token=2073290139&lang=zh_CN#rd)
+
+[C#.Net析构知识引申(CLR级的剖析）](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485332&idx=1&sn=0120f1eb67af0859af49c2021bbc8c8c&chksm=c01c4a0ff76bc319303032d7427b3e56b68bb8a092d96d359c167eb97e1b504c7256a8c28020&token=2073290139&lang=zh_CN#rd)
+
+[.Net CLR GC存活标记及固定对象的设置](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485231&idx=1&sn=e335f007c21f7343dc7ecf91508bd0c1&chksm=c01c4ab4f76bc3a214fa49e20ce8c0eea8a0151f6c345e644ba1b92413c9fddbc564dae5bc80&token=2073290139&lang=zh_CN#rd)
+
+[CLR Via C#还值得一读吗](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485187&idx=1&sn=68e2a3dedd3a112d5f4cc9e5da6788e4&chksm=c01c4a98f76bc38e87db6ad571e70a032c5c3d04918ecf4511d44d31fbd4af60e3e79ef2473a&token=2073290139&lang=zh_CN#rd)
+
+[.Net虚拟机CLR核心的内存模型](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484913&idx=1&sn=34ae068d421506090727fbc1c6c4a8ca&chksm=c01c486af76bc17c098ef4b5ec3e4df85d8472dd62b8e9194ed1aad579ae556ed2914e6a8072&token=2073290139&lang=zh_CN#rd)
+
+[断点+内存映射终章(CLR问题)](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484900&idx=1&sn=7e42d04f00f270040f8bc07654782222&chksm=c01c487ff76bc16974c6b0e485becd6beaf3d67a6066eab9f43730b6a6bc5a3515592741fc09&token=2073290139&lang=zh_CN#rd)
+
+[绝顶技术:断点+内存映射组合的CLR超强BUG？](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484891&idx=1&sn=588b1b1d9de96c95c19b7cd6cc7425f6&chksm=c01c4840f76bc1564aa345caa0e4bd3a88609d6a72010032987c2291d6e28f14cdbd59065f63&token=2073290139&lang=zh_CN#rd)
+
+
+### AOT编译器ILC系列
+[.Net 7 新编译器ILC简析（二）](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484241&idx=1&sn=165780e1be66a3dba73f53bfb967ad18&chksm=c01c4ecaf76bc7dcffb2b3c145aa5b9de555d651386abb5932b94882a6baf34b35c764a85f71&token=2073290139&lang=zh_CN#rd)
+
+[C#之ILC和C++的CLR前者更快？](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484215&idx=1&sn=107e876fb36b56180b262eaf2c58ba36&chksm=c01c4eacf76bc7bae560e748e8eba911922e0349f0f46ce552d7aaf6a8fbbcf2947a6d95cc11&token=2073290139&lang=zh_CN#rd)
+
+[.Net 7 CLR和ILC编译函数过程](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484196&idx=1&sn=8041d7f57fa38093575db75226da2ded&chksm=c01c4ebff76bc7a946e7586b059c51b024b36a01d5eb318742de0c288766486187e0ec7ca591&token=2073290139&lang=zh_CN#rd)
+
+[.Net 7 新编译器 ILC 简析](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484180&idx=1&sn=418cc4dc2d124a107f52c34739181e50&chksm=c01c4e8ff76bc79991e1b1086487f5a60d0068c358969c47945843ac88be74aa90de38ed9302&token=2073290139&lang=zh_CN#rd)
+
+

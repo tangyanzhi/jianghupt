@@ -19,9 +19,10 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 #### 3.回复 VIA，获取clr via C# 这本书的pdf版本
 
-有什么问题也可以联系作者wx号:tyz_jhpt
+
 ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true)
 
+### 有什么问题也可以添加作者wx号:tyz_jhpt，详细咨询
 
 ## 以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术文章分析。祝你玩得愉快。
 

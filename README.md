@@ -9,7 +9,7 @@ Explore the highest level of technology, do whatever you want, and do whatever y
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
 
 
-微信公众号为文章首发地，有两百多篇同级别文章分析。欢迎关注。有什么问题也可以联系作者wx号:tyz_jhpt
+微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。有什么问题也可以联系作者wx号:tyz_jhpt
 
 关注之后，后台回复如下暗号：
 

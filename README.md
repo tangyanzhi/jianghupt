@@ -9,7 +9,7 @@ Explore the highest level of technology, do whatever you want, and do whatever y
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
 
 
-微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。有什么问题也可以联系作者wx号:tyz_jhpt
+微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
 
 关注之后，后台回复如下暗号：
 
@@ -19,7 +19,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 3.回复 VIA，获取clr via C# 这本书的pdf版本
 
-
+有什么问题也可以联系作者wx号:tyz_jhpt
 ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true)
 
 

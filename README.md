@@ -112,3 +112,38 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 [.Net 7 新编译器 ILC 简析](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484180&idx=1&sn=418cc4dc2d124a107f52c34739181e50&chksm=c01c4e8ff76bc79991e1b1086487f5a60d0068c358969c47945843ac88be74aa90de38ed9302&token=2073290139&lang=zh_CN#rd)
 
 
+### Risc-v64
+[.Net JIT支持的Risc-V/La/Arm](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485299&idx=1&sn=f099753e12d8199f4d91dedcb8cbb5e3&chksm=c01c4ae8f76bc3fe1e3300d7c1214026d42c8df376a2aaa08ecdc5b242bca6037e24a9e3a3d8&token=2073290139&lang=zh_CN#rd)
+
+[Riscv ASM级指令编写字符串](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484622&idx=1&sn=e86f482f9c7b14dd54d9e3b7bb9cdf3a&chksm=c01c4955f76bc04396e3efba8feb23584644e7819d318eda2e70287017d68bd87fc918717cff&token=2073290139&lang=zh_CN#rd)
+
+[Schedule Risc-v64](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484586&idx=1&sn=42f3dc5e04c7abfb9ef3bc93c124f2c2&chksm=c01c4931f76bc027c8c03093195a96875e4a5cbb931118dd7a3553887203a2cb7aca95001982&token=2073290139&lang=zh_CN#rd)
+
+[Risc-v64的elf入口](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484573&idx=1&sn=84ec4376226758cdcb6d56572912b44d&chksm=c01c4906f76bc01042127e6398fda037a6e8e2e4e785be4941c6fee3f93c44ad8414d10dba03&token=2073290139&lang=zh_CN#rd)
+
+### Arm
+[.Net8运行在Arm64上的初体验](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484648&idx=1&sn=e0d10fdd084cdbc6eb9abdb21e365933&chksm=c01c4973f76bc06504d960bf7faf25d322aa83f61261f456bc82cf1ce18ed9c2beebe6f4ce19&token=2073290139&lang=zh_CN#rd)
+
+[Arm32-Linuxelf Main入口的调度](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484563&idx=1&sn=f0a87e32ab32facbc0cb95001076db3b&chksm=c01c4908f76bc01e8badf5cf1ba3e4cee7751053c75b5864c51e901ed11736597834ea6d296e&token=2073290139&lang=zh_CN#rd)
+
+[Arm32-Linux子系统的互相Notify](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484558&idx=1&sn=9f12b4afc06d01e28d897fc155fc0b2f&chksm=c01c4915f76bc003af86467e316f38e76f178463275cd7b304532a3b6df08c7f6cba58cb0140&token=2073290139&lang=zh_CN#rd)
+
+[进阶技术:Linux Arm32是如何调用C Main的](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484549&idx=1&sn=c12e9ad7f3a1eab8e860c1f71b1f2c8c&chksm=c01c491ef76bc00811a4d5c54975fdd36093c3f07944223a8367397be0a8e70f108f818a8aeb&token=2073290139&lang=zh_CN#rd)
+
+
+### Linux技术
+
+[龙芯(Loongarch64），在Linux虚拟一个龙芯OS体验下](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484659&idx=1&sn=d88eabe5b90c5443de53280544350104&chksm=c01c4968f76bc07e7e415ad46ffb57d1137ee01bebc0b6ae6ce7bf9793c24c41bd78d49cece5&token=2073290139&lang=zh_CN#rd)
+
+[震惊！Linux调用C Main，居然使用的缺页异常](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484490&idx=1&sn=ec958046ce34c4a608f7757f35a7fa77&chksm=c01c49d1f76bc0c7de20c6d51dfa7c3ee7ae852f20367a74fed86a3eed8de2e2bc0e68745a98&token=2073290139&lang=zh_CN#rd)
+
+[Linux Kernel 加载ELF续](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484447&idx=1&sn=abcf3533893a9943e5992bc3b2e6f13e&chksm=c01c4984f76bc092e871e8ba9aa4c2185292a5eba3b60f2231f03a7c7169d05bbd7e36414366&token=2073290139&lang=zh_CN#rd)
+
+[Linux Kernel是如何操控ELF文件](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484437&idx=1&sn=22ccf5fdbaa22a00833dad48616a37ec&chksm=c01c498ef76bc0980444d01bc932b36a2421adf11a2973d75a9512f970063a935edbf86dc08c&token=2073290139&lang=zh_CN#rd)
+
+[GUN/Linux的源头Elf文件是如何操控Glibc的](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484429&idx=1&sn=7a2c1ab1d1a6e62f9223cbfff3a1294a&chksm=c01c4996f76bc08048b6a9e65b71f2886237845b26c13cafb6c1565b01085668d0cf2ff9bab9&token=2073290139&lang=zh_CN#rd)
+
+[GUN/Linux通用Glibc库是如何操控.Net 7的CLR](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484418&idx=1&sn=73ea43d79ff234c8890e31e3f02d42c5&chksm=c01c4999f76bc08f215b1453685e373d95a9ae95830cf00b19697338678a23c76c9bce0bb135&token=2073290139&lang=zh_CN#rd)
+
+
+

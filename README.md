@@ -2,6 +2,7 @@
 
 ### 分层编译系列
 [.NET8 JIT核心:分层编译的原理](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485453&idx=1&sn=f7c1a6198b9e24af64a6a88b80230a76&chksm=c01c4596f76bcc80ff69ce39bc691f508a118f679d64c070e12538151dde161c4f80da935724&token=2073290139&lang=zh_CN#rd)
+
 [.Net8的快速JIT，分层编译，R2R的设置](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247484697&idx=1&sn=d4d80af9f3f9d64d959c6c403a6b5f44&chksm=c01c4882f76bc1945679229711e6a4fe52350712be7e79c40ddf0ea1fa513666ca63869820c9&token=2073290139&lang=zh_CN#rd)
 [.NET普通方法开启分层编译](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485458&idx=1&sn=18cc43c4ac550b4be88ee633dc46c118&chksm=c01c4589f76bcc9f818282e220a793aacc87da741eb278fd77a5365a06d261cd7310e21e652a&token=2073290139&lang=zh_CN#rd)
 [.NET8分层编译参数](https://mp.weixin.qq.com/s?__biz=Mzg5NDYwNjU4MA==&mid=2247485462&idx=1&sn=0c334fb7d2a5e240fc921757eb2cc42d&chksm=c01c458df76bcc9bc563e8e1ab90fe2e132415f83ed995667941579523d8548f9065673389c6&token=2073290139&lang=zh_CN#rd)

@@ -9,11 +9,11 @@ Explore the highest level of technology, do whatever you want, and do whatever y
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
 
 
-公众号为文章首发地，有两百多篇同级别文章分析。欢迎关注。
+微信公众号为文章首发地，有两百多篇同级别文章分析。欢迎关注。有什么问题也可以联系作者wx号:tyz_jhpt
 ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true)
 
 
-以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术。希望你玩得愉快。
+## 以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术。希望你玩得愉快。
 
 
 ### .NET8 分层编译系列

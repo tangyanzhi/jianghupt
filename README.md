@@ -22,7 +22,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true)
 
-### 有什么问题也可以添加作者wx号:tyz_jhpt，详细咨询
+### 想要加群讨论技术的，可以添加作者wx号:tyz_jhpt，备注:加群或者.NET 拉你进去和行业大佬一起畅享技术盛宴。
 
 ## 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
 

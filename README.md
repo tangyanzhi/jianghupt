@@ -8,7 +8,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
 
-### 关注之后，后台回复如下暗号：
+### 关注之后，后台回复如下：
 
 #### 1.回复 AOT，获取.NET8 AOT引导程序
 

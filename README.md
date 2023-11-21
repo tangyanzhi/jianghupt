@@ -1,13 +1,10 @@
 # 分享.NET 顶级技术文章:
 
-分享.NET方面，包括AOT，CLR，JIT，ILC等等，国内罕见，同行无法企及的顶级技术。
-作为延伸和延展方面的技术，Windows/Linux双内核顶尖技术。
-Arm64/Risc-v64/X64等指令超级技术。
-
+分享.NET方面，包括CLR，GC，MSIL，JIT，AOT，ILC等等国内罕见，同行无法企及的顶级技术。
+作为延伸和延展方面的技术，Windows/Linux双内核顶尖技术。 Arm64/Risc-v64/X64等指令超级技术。
 
 Explore the highest level of technology, do whatever you want, and do whatever you want. 
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
-
 
 微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
 

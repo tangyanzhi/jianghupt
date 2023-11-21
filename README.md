@@ -8,13 +8,13 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
 
-### 关注之后，后台回复如下：
+ 关注之后，后台回复如下：
 
-#### 1.回复 AOT，获取.NET8 AOT引导程序
+ 1.回复 AOT，获取.NET8 AOT引导程序
 
-#### 2.回复 dotnet7,获取一套.NET CLR顶级视频源码，包括CLR+JIT+MSIL
+ 2.回复 dotnet7,获取一套.NET CLR顶级视频源码，包括CLR+JIT+MSIL
 
-#### 3.回复 VIA，获取clr via C# 这本书的pdf版本
+ 3.回复 VIA，获取clr via C# 这本书的pdf版本
 
 
 <!--- ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true) -->

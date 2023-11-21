@@ -24,7 +24,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ### 有什么问题也可以添加作者wx号:tyz_jhpt，详细咨询
 
-## 以下分为分层编译，AOT，CLR，JIT等国内罕见，无人企及，鲜为人知的顶级核心技术文章分析。祝你玩得愉快。
+## 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
 
 
 ### .NET8 分层编译系列

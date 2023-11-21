@@ -17,7 +17,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 #### 3.回复 VIA，获取clr via C# 这本书的pdf版本
 
 
-![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true=100x100)
+![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true)
 
 ### 想要加群讨论技术的，可以添加作者wx号:tyz_jhpt，备注:加群或者.NET 拉你进去
 

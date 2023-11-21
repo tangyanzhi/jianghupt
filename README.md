@@ -1,4 +1,4 @@
-# 分享.NET 顶级技术文章:
+### 分享.NET 顶级技术文章:
 
 分享.NET方面，包括CLR，GC，MSIL，JIT，AOT，ILC等等国内罕见，同行无法企及的技术。
 作为延伸和延展方面的技术，Windows/Linux双内核技术。 Arm64/Risc-v64/X64等指令集技术。
@@ -24,7 +24,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ##### 想要加群讨论技术的，可以添加作者wx号:tyz_jhpt，备注:加群或者.NET 拉你进去
 
-## 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
+### 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
 
 
 ### .NET8 分层编译系列

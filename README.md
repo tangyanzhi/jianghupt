@@ -21,7 +21,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 ## 知识星球学习  
 
 加入知识星球，和作者一起学习.NET系列的核心技术，以期达到作者或者超过作者的水平。<br>
-对于解决项目中的疑难问题，信手拈来，毫无压力。<br>
+提升自己的核心竞争力，是你在行业鱼如得水的保证。对于解决项目中的疑难问题，信手拈来，毫无压力。<br>
 知识星球主要是对于一些核心的知识点进行详细的图文讲解，以帮助你进阶，或者跨越技术阶层。
  <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/zhishixingqiu.png?raw=true" width = "400" height = "500" alt="赠送你一张优惠券" align=center />
   

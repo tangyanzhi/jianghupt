@@ -1,6 +1,6 @@
 ## 分享.NET 顶级技术文章:
 
-分享.NET方面，包括CLR，GC，MSIL，JIT，AOT，ILC等等国内罕见，同行无法企及的技术。<br>
+分享.NET方面，包括CLR，GC，MSIL，JIT，AOT，ILC等等国内罕见，同类无法企及的技术。<br>
 作为延伸和延展方面的技术，Windows/Linux双内核技术。 Arm64/Risc-v64/X64等指令集技术。
 
 Explore the highest level of technology, do whatever you want, and do whatever you want. <br>

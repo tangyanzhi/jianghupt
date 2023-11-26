@@ -6,7 +6,7 @@
 Explore the highest level of technology, do whatever you want, and do whatever you want. <br>
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
 
-微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
+微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析，欢迎关注。
 <!--- ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/关注作者.png?raw=true) -->
  <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/关注作者.png?raw=true" width = "600" height = "200"  alt="微信公众号，欢迎关注" align=center />
 

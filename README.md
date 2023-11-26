@@ -26,11 +26,14 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ##### 为了方便大家交流，沟通，以及成长，建了一个群。可以加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。
 
-你也可以加入知识星球，和作者一起学习.NET核心技术，学到就是赚到。
+### 你也可以加入知识星球，和作者一起学习.NET核心技术，学到就是赚到。
+
+ <img src="[https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true](知识星球优惠券
+)" width = "600" height = "200" alt="赠送你一张优惠券" align=center />
 
 
 
-### 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
+#### 以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
 
 
 ### .NET8 分层编译系列

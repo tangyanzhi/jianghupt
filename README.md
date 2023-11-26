@@ -3,7 +3,7 @@
 分享.NET方面，包括CLR，GC，MSIL，JIT，AOT，ILC等等国内罕见，同行无法企及的技术。<br>
 作为延伸和延展方面的技术，Windows/Linux双内核技术。 Arm64/Risc-v64/X64等指令集技术。
 
-Explore the highest level of technology, do whatever you want, and do whatever you want. 
+Explore the highest level of technology, do whatever you want, and do whatever you want. <br>
 Not limited to any restrictive behavior, breaking through the cage and all behavioral restrictions.
 
 微信公众号(jianghupt)为文章首发地，有两百多篇同级别文章分析。欢迎关注。
@@ -13,14 +13,15 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ## 技术交流群
 
-江湖评谈------.NET技术交流群旨在分享.NET核心技术，为大家讨论技术资讯，项目经验分享，疑难问题解决提供一个交流的场所。
-群致力于构建一个，自由，核心的交流空间。为大家带来一定的技术价值。
+江湖评谈------.NET技术交流群旨在分享.NET核心技术，为大家讨论技术资讯，项目经验分享，疑难问题解决提供一个交流的场所。<br>
+群致力于构建一个，自由，核心的交流空间。为大家带来一定的技术价值。<br>
 添加加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。  
   
   
 ## 知识星球学习  
 
-加入知识星球，和作者一起学习.NET系列的核心技术，以期达到作者或者超过作者的水平。对于解决项目中的疑难问题，信手拈来，毫无压力。
+加入知识星球，和作者一起学习.NET系列的核心技术，以期达到作者或者超过作者的水平。<br>
+对于解决项目中的疑难问题，信手拈来，毫无压力。<br>
 知识星球主要是对于一些核心的知识点进行详细的图文讲解，以帮助你进阶，或者跨越技术阶层。
  <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/zhishixingqiu.png?raw=true" width = "400" height = "500" alt="赠送你一张优惠券" align=center />
   

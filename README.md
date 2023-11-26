@@ -24,10 +24,10 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
  <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/关注作者.png?raw=true" width = "600" height = "200"  alt="微信公众号，欢迎关注" align=center />
 
-##### 为了方便大家交流，沟通，以及成长，建了一个群。可以加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。
+#### 为了方便大家交流，沟通，以及成长，建了一个群。可以加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。
 
-### 你也可以加入知识星球，和作者一起学习.NET核心技术，学到就是赚到。
-
+### 你也可以加入知识星球，和作者一起学习.NET系列的核心技术，以期达到作者或者超过作者的水平。对于解决项目中的疑难问题，信手拈来，毫无压力。
+##### 知识星球主要是对于一些核心的知识点进行详细的图文讲解，以帮助你进阶，或者跨越技术阶层。
 
  <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/zhishixingqiu.png?raw=true" alt="赠送你一张优惠券" align=center />
 

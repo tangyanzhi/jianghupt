@@ -22,7 +22,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 <!--- ![image](https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true) -->
 
 
- <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true" width = "600" height = "200" alt="微信公众号，欢迎关注" align=center />
+ <img src="https://github.com/tangyanzhi/CLR/blob/main/Roslyn_CLR_JIT/%E5%85%B3%E6%B3%A8%E4%BD%9C%E8%80%85.png?raw=true"  alt="微信公众号，欢迎关注" align=center />
 
 ##### 为了方便大家交流，沟通，以及成长，建了一个群。可以加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。
 

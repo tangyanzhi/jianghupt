@@ -13,7 +13,9 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 ## 技术交流群
 
-为了方便大家交流，沟通，以及成长，建了一个群。可以加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。  
+江湖评谈------.NET技术交流群旨在分享.NET核心技术，为大家讨论技术资讯，项目经验分享，疑难问题解决提供一个交流的场所。
+群致力于构建一个，自由，核心的交流空间。为大家带来一定的技术价值。
+添加加作者微信tyz_jhpt。备注:加群，或者.NET 拉你进去。  
   
   
 ## 知识星球学习  

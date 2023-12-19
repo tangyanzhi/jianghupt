@@ -29,7 +29,7 @@ Not limited to any restrictive behavior, breaking through the cage and all behav
 
 # 核心技术文章分享
 
-以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。祝你玩得愉快。
+以下分为分层编译，AOT，CLR，JIT等顶级核心技术文章分析。公开分享，祝你玩得愉快。
 
 
 ### .NET8 分层编译系列
